@@ -9,5 +9,8 @@
 	> npm start
 ```
 
-##Acknowledges
+See http://localhost:8080/ for dev server
+
+## Acknowledgements
+
 This project uses Stephen Grider's [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter/blob/master/LICENSE.MD) from his [React Udemy Course](https://www.udemy.com/react-redux/)
